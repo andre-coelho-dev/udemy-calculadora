@@ -1,7 +1,7 @@
 # Projeto App Calculadora
 Projeto do curso de Desenvolvimento Web - Udemy
 
-Página - https://andre-coelho-dev.github.io/Udemy-calculadora/
+Página - https://andre-coelho-dev.github.io/udemy-calculadora/
 
 Criação de App usando Bootstrap e JavaScript.
 
